@@ -1,0 +1,25 @@
+.calc{
+  background-color: #00DDCC;
+  width: 80%;
+  height: 50%;
+  align-content:center;
+}
+
+.inputField{
+  width: 99.8%;
+  border: none;
+  text-align: right;
+  position: relative;
+}
+
+.isLine{
+  margin: 5px auto;
+  position: relative;
+  width: 100%;
+  align-content: center;
+}
+
+.button{
+  width: 19%;
+  /* border-radius: 15%; */
+}
